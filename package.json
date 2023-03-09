@@ -1,0 +1,19 @@
+{
+  "name": "scrolled-header",
+  "version": "1.0.6",
+  "description": "Add active class to fixed header while scrolling down and remove when scrolling up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "header",
+    "fixed",
+    "scrolling",
+    "active",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Sergey Manchenko",
+  "license": "MIT"
+}
