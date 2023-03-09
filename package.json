@@ -1,8 +1,13 @@
 {
   "name": "scrolled-header",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Add active class to fixed header while scrolling down and remove when scrolling up.",
   "main": "index.js",
+  "homepage": "https://github.com/silverhow/scrolled-header",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/silverhow/scrolled-header.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
